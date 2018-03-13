@@ -5,3 +5,4 @@ Reduce player loading times ("gray blobs"). Makes all players look the same so c
 ## Notes
 
 - To make weapons visible, comment out or remove the weapon line: `//event.weapon = 0;'
+- **Needs testing. Might not make a difference**
